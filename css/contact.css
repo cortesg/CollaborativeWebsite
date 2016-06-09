@@ -1,0 +1,79 @@
+body {
+	background-color: lightgray;
+}
+
+header h1 {
+	font-size: 56px;
+	font-family: arial;
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+}
+
+h2 {
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
+li {
+	font-family: 'Poiret One', cursive;
+}
+nav {
+	background-color: black;
+	height: 50px;
+}
+nav ul {
+	padding: 0;
+	margin: 0;
+	height: 50px;
+	width: 460px;
+	margin: 0 auto;
+}
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+	float: left;
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+}
+
+li a {
+	text-decoration: none;
+	color: white;
+	line-height: 50px;
+	display: block;
+}
+
+li a:hover {
+	background-color: blue;
+	color: gold;
+}
+
+.James ul {
+	float: center;
+	display: inline-block;
+	border-style: solid;
+	border-color: black;
+	padding: 40px 350px 40px 350px;
+	margin-left: 13%;
+}
+.Jason ul {
+	float: center;
+	display: inline-block;
+	border-style: solid;
+	border-color: black;
+	padding: 40px 350px 40px 350px;
+	margin-left: 13%;
+}
+.Gino ul {
+	float: center;
+	display: inline-block;
+	border-style: solid;
+	border-color: black;
+	padding: 40px 350px 40px 350px;
+	margin-left: 13.3%;
+}
+.Gino img {
+	width: 50px;
+	height: 50px;
+}
