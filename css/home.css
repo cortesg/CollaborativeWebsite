@@ -17,6 +17,7 @@ h1 {
 header ul {
 	text-align: center;
 	border: solid darkblue 3px;
+	margin: 25px;
 }
 
 header a {
@@ -34,7 +35,8 @@ header li {
 }
 
 header a:hover {
-	color: #986c6a;
+	color: white;
+	background-color: black;
 }
 
 
