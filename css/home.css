@@ -3,10 +3,14 @@ body {
 }
 
 header h1 {
-	font-size: 56px;
-	font-family: arial;
-	text-align: center;
-	font-family: 'Poiret One', cursive;
+	color:yellow;
+  font-family: Tahoma, sans-serif;
+  font-size:100px;
+  text-align: center;
+}
+
+span{
+  color:white;
 }
 
 li {
