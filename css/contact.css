@@ -1,5 +1,5 @@
 body {
-	background-color: lightgray;
+	background-color: black;
 }
 
 header h1 {
@@ -21,7 +21,7 @@ li {
 	font-family: 'Poiret One', cursive;
 }
 nav {
-	background-color: black;
+	background-color: white;
 	height: 50px;
 }
 nav ul {
@@ -43,37 +43,40 @@ nav ul li {
 
 li a {
 	text-decoration: none;
-	color: white;
+	color: black;
 	line-height: 50px;
 	display: block;
 }
 
 li a:hover {
-	background-color: blue;
-	color: gold;
+	background-color: yellow;
+	color: black;
 }
 
 .James ul {
+	color: white;
 	float: center;
 	display: inline-block;
 	border-style: solid;
-	border-color: black;
+	border-color: white;
 	padding: 40px 350px 40px 350px;
 	margin-left: 13%;
 }
 .Jason ul {
+	color: white;
 	float: center;
 	display: inline-block;
 	border-style: solid;
-	border-color: black;
+	border-color: white;
 	padding: 40px 350px 40px 350px;
 	margin-left: 13%;
 }
 .Gino ul {
+	color: white;
 	float: center;
 	display: inline-block;
 	border-style: solid;
-	border-color: black;
+	border-color: white;
 	padding: 40px 350px 40px 350px;
 	margin-left: 13.3%;
 }
