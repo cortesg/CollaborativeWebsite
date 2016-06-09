@@ -5,24 +5,42 @@
 
 header {
 	background-color: #d8dbe2;
+	padding: 90px;
 }
 
 h1 {
 	color: darkblue;
 	text-align: center;
+	font-size: 100px;
 }
 
 header ul {
 	text-align: center;
+	border: solid darkblue 3px;
+	margin: 25px;
+}
+
+header a {
+	text-decoration: none;
+	color: #546a7b;
 }
 
 header li {
 	list-style: none;
 	display: inline;
-	font-size: 30px;
-	color: #546a7b;
-	border: 1px solid darkblue;
+	font-size: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	color: darkblue;
 }
+
+header a:hover {
+	color: white;
+	background-color: black;
+}
+
+
+
 
 #content1 {
 	background-image: ;
