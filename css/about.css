@@ -1,0 +1,82 @@
+body{
+  background-color: black;
+  width:80em;
+  height:100%;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 0px 15px 0px 15px;
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+.wrapper{
+  height:100%;
+}
+
+.header{
+  background-color: #4a4a4a;
+  width:80em;
+  height:20em;
+}
+
+.header h1{
+  color:yellow;
+  font-family: Tahoma, sans-serif;
+  font-size:100px;
+  text-align: center;
+}
+
+.header span{
+  color:white;
+}
+
+.header li{
+  display: inline-block;
+  font-family: Tahoma, bold, serif;
+  padding:0em 2em 0em 2em;
+  font-size:3.5em;
+  color:white;
+
+}
+
+#images img{
+  display:inline-block;
+  width:20em;
+  height:15em;
+  margin-left:5em;
+}
+
+p{
+  font-family: Georgia, serif;
+  font-size: 20px;
+  width: 40em;
+  margin: 0 auto;
+  padding:40px;
+  color: white;
+}
+
+#Tappan img{
+  width:80em;
+}
+
+.Description ul{
+  list-style-type: circle;
+  font-family:Times, bold, serif;
+  font-size: 22px;
+  width: 35em;
+  margin: 0 auto;
+}
+
+h1{
+  color: white;
+  font-family:Tahoma, bold, serif;
+  font-size: 130px;
+  text-align:center;
+}
+
+#cones img{
+  display: inline-block;
+  margin-left: 20em;
+  margin-right: 20em;
+  width: 40em;
+}

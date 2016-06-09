@@ -1,9 +1,18 @@
-h1 {
-	font-size: 56px;
-	font-family: arial;
-	text-align: center;
-	font-family: 'Poiret One', cursive;
+body {
+	background-color: lightgray;
 }
+
+header h1 {
+	color:yellow;
+  font-family: Tahoma, sans-serif;
+  font-size:100px;
+  text-align: center;
+}
+
+span{
+  color:white;
+}
+
 h2 {
 	font-family: 'Poiret One', cursive;
 	text-align: center;
@@ -31,16 +40,19 @@ nav ul li {
 	text-align: center;
 	font-family: 'Poiret One', cursive;
 }
+
 li a {
 	text-decoration: none;
 	color: white;
 	line-height: 50px;
-	display: block
+	display: block;
 }
+
 li a:hover {
 	background-color: blue;
 	color: gold;
 }
+
 .James ul {
 	float: center;
 	display: inline-block;
@@ -68,7 +80,4 @@ li a:hover {
 .Gino img {
 	width: 50px;
 	height: 50px;
-}
-body {
-	background-color: lightgray;
 }
