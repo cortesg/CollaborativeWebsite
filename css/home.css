@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	background-color: #d8dbe2;
+}
+
+h1 {
+	color: darkblue;
+	text-align: center;
+}
+
+header ul {
+	text-align: center;
+}
+
+header li {
+	list-style: none;
+	display: inline;
+	font-size: 30px;
+	color: #546a7b;
+	border: 1px solid darkblue;
+}
+
+#content1 {
+	background-image: ;
+}
