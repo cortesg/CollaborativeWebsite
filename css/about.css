@@ -2,11 +2,7 @@ body{
   background-color: black;
   width:80em;
   height:100%;
-  border-style: solid;
-  border-color: yellow;
   border-width: 0px 15px 0px 15px;
-  margin-left: 4em;
-  margin-right: 4em;
 }
 
 .wrapper{
@@ -14,7 +10,6 @@ body{
 }
 
 .header{
-  background-color: #4a4a4a;
   width:80em;
   height:20em;
 }
@@ -24,6 +19,7 @@ body{
   font-family: Tahoma, sans-serif;
   font-size:100px;
   text-align: center;
+  margin-right:16px;
 }
 
 .header span{
@@ -41,6 +37,7 @@ li {
 nav {
   background-color: white;
   height: 50px;
+  margin-right:16px
 }
 
 nav ul {
