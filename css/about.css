@@ -30,13 +30,47 @@ body{
   color:white;
 }
 
-.header li{
-  display: inline-block;
-  font-family: Tahoma, bold, serif;
-  padding:0em 2em 0em 2em;
-  font-size:3.5em;
+span{
   color:white;
+}
 
+li {
+  font-family: 'Poiret One', cursive;
+}
+
+nav {
+  background-color: white;
+  height: 50px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+  height: 50px;
+  width: 460px;
+  margin: 0 auto;
+}
+
+nav ul li {
+  list-style-type: none;
+  width: 150px;
+  float: left;
+  border-left: 1px solid #CCC;
+  border-right: 1px solid #CCC;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  line-height: 50px;
+  display: block;
+}
+
+li a:hover {
+  background-color: yellow;
+  color: black;
 }
 
 #images img{
@@ -47,7 +81,7 @@ body{
 }
 
 p{
-  font-family: Georgia, serif;
+  font-family: 'Poiret One', cursive;
   font-size: 20px;
   width: 40em;
   margin: 0 auto;
@@ -61,10 +95,11 @@ p{
 
 .Description ul{
   list-style-type: circle;
-  font-family:Times, bold, serif;
+  font-family: 'Poiret One', cursive;
   font-size: 22px;
   width: 35em;
   margin: 0 auto;
+  color: white;
 }
 
 h1{
