@@ -53,6 +53,9 @@ li a:hover {
 }
 
 #content1 {
-	background: url(imgs/home_bridge.jpeg);
-	background-size: 1000px 500px;
+	width: 1050px;
+}
+
+#content1 img {
+	width: 100px;
 }
