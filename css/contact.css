@@ -14,8 +14,11 @@ span{
 }
 
 h2 {
-	font-family: 'Poiret One', cursive;
 	text-align: center;
+	color: white;
+	margin-top: 50px;
+	font-size: 30px;
+	
 }
 li {
 	font-family: 'Poiret One', cursive;
@@ -53,21 +56,207 @@ li a:hover {
 	color: black;
 }
 
-.James ul {
+#Jason {
+	float: left;
+	margin-left: 200px;
+	margin-top: 70px;
+}
+
+#Jason > img {
+	width: 200px;
+	max-height: 200px;
+}
+
+#info1 {
+	width: 600px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#info1 > h3 {
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+#info1 > p {
+	color: white;
+}
+
+#content2 > img {
+	width: 200px;
+	max-height: 200px;
+	float: left;
+	clear: left;
+	margin-left: 200px;
+	margin-top: 70px;
+}
+
+#Gino {
+	width: 600px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#Gino > h3 {
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+#Gino > p {
+	color: white;
+}
+
+#content3 > img {
+	width: 200px;
+	max-height: 200px;
+	margin-left: 200px;
+	margin-top: 70px;
+	float: left;
+	clear: left;
+}
+
+#James {
+	width: 600px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#James h3 {
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+#James p {
+	color: white;
+}
+
+.title {
+	font-size: 14px;
+	color: white;
+	margin-left: 5px;
+}
+
+strong {
+	font-size: 18px;
+}
+
+/*form {
+	float: center;
+}*/
+/*#content1 > img {
+	width: 100%;
+	opacity: 0.5;
+	height: 600px;
+}
+
+#content1 > h3 {
+	width: 700px;
+	text-align: center;
+	font-size: 90px;
+	color: yellow;
+	opacity: 0.75;
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 255px;
+	z-index: 1;
+}
+
+#content2 > img {
+	width: 200px;
+	max-height: 200px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 60px;
+}
+
+#content3 > img {
+	width: 200px;
+	max-height: 200px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 60px;
+}
+
+.information {
+	width: 500px;
+	color: white;
+	float: left;
+	margin: 60px;
+	border: 1px white solid;
+	padding-top: 0px;
+} */
+
+/*.James ul {
 	list-style-type: square;
 	color: white;
 	float: center;
-	display: inline-block;
+	display: inline;
 	border-style: solid;
 	border-color: white;
 	padding: 40px 350px 40px 350px;
 	margin-left: 13%;
+}*/
+/*.James{
+	float: left;
+	width: 100%;
 }
-.Jason ul {
+.Jason {
+	clear: left;
+	width: 100%;
+	
+}*/ 
+
+/*#information {
+	float: left;
+}
+
+#information > ul {
+	list-style: none;
+
+	color: white;
+	padding-top: 25%;
+
+}
+
+#information2 > ul {
+	list-style: none;
+	color: white;
+	padding-top: 25%;
+}
+
+.pic1move > img {
+	float: left;
+	margin-left: 100px;
+	margin-right: 100px;
+	width: 200px;
+}
+
+.pic2 {
+	float: left;
+	clear: both;
+	margin: 100px;
+	width: 200px;
+}
+
+.pic2 > img {
+	float: left;
+	margin-left: 100px;
+	margin-right: 100px;
+	width: 200px;
+}
+
+
+/*.Jason ul {
 	list-style-type: square;
 	color: white;
 	float: center;
-	display: inline-block;
+	display: inline;
 	border-style: solid;
 	border-color: white;
 	padding: 40px 350px 40px 350px;
@@ -96,3 +285,7 @@ li a:hover {
 	width: 100px;
 	height: 140px;
 }
+.picmove {
+	
+}
+*/ 
